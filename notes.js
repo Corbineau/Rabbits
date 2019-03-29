@@ -1,0 +1,1 @@
+// $.ajax({url: "http://endpoint.com/?query=", method: "GET"})
